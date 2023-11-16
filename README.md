@@ -7,7 +7,7 @@ Este projeto consiste em uma animação simples usando HTML, CSS e JavaScript pa
 1. Clone este repositório em sua máquina local:
 
    ```bash
-   git clone https://github.com/marcelitos1v9/pokemon-animation.git
+   git clone https://github.com/marcelitos1v9/poke_animation.git
 
 Abra o arquivo index.html em seu navegador para visualizar a animação.
 
